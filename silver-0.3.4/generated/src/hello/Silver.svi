@@ -1,0 +1,9 @@
+declaredName 'hello'
+moduleNames ['core']
+defs [fun('Hello.sv', 6, 9, [], signature('hello:main', [element('largs', [string]), element('ioin', io)], element('__func__lhs', nt('core:IOVal', [int])))),
+ fun('Hello.sv', 14, 9, [], signature('hello:expt', [element('a', int), element('b', int)], element('__func__lhs', int)))]
+exportedGrammars []
+condBuild []
+terminals []
+nonterminals []
+rules []
